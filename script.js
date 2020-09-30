@@ -2,12 +2,13 @@
 var timeLeft = 120;
 
     function changeValue() {
+        // var timeLeft = 120;
         document.getElementById("timer").innerHTML = --timeLeft;
     } 
 
     function start() {       
         timerInterval = setInterval(changeValue, 1000);
-      
+
         var body = document.body;
 
         var h1El = document.createElement("h1");

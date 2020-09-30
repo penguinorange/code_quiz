@@ -1,5 +1,25 @@
+# Code Quiz
 
-# 04 Web APIs: Code Quiz
+## Objective
+Design a dynamic quiz, powered almost entirely by JavaScript.
+
+## Links
+
+https://github.com/penguinorange/code_quiz
+
+https://penguinorange.github.io/code_quiz/
+
+## Images
+
+
+
+## Credits
+
+You know who you are.
+
+
+
+<!-- # 04 Web APIs: Code Quiz
 
 ## Your Task
 
@@ -89,14 +109,4 @@ You are required to submit BOTH of the following for review:
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 - - -
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-
-
-
-=======================================================================
-
-
-
-# code_quiz
-Coding assessment for potential hirees
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. -->
