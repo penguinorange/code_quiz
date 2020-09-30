@@ -46,7 +46,20 @@ var timeLeft = 120;
                 document.getElementById("timer").innerHTML = newTime;
             }
             
+        btnB.addEventListener("click", fnbtnb);
+            function fnbtnb()  { 
+                var newTime = timeLeft - 20;
+                console.log(newTime);
+                document.getElementById("timer").innerHTML = newTime;
+            }
 
+        btnC.addEventListener("click", fnbtnc);
+            function fnbtnc()  { 
+                var newTime = timeLeft - 20;
+                console.log(newTime);
+                document.getElementById("timer").innerHTML = newTime;
+            }
+            
 
     }
  

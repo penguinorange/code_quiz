@@ -11,7 +11,7 @@ https://penguinorange.github.io/code_quiz/
 
 ## Images
 
-
+<img width="1440" alt="Screen Shot 2020-09-29 at 11 41 04 PM" src="https://user-images.githubusercontent.com/71295199/94643862-64e10b80-02ad-11eb-851f-931ebf407e8a.png">
 
 ## Credits
 
